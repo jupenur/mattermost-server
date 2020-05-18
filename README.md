@@ -12,6 +12,8 @@ It's written in Golang and React and runs as a single Linux binary with MySQL or
 
 ## Try out Mattermost
 
+aaaaaa
+
 - [Join the Mattermost Contributor's server](https://pre-release.mattermost.com/) (latest nightly builds, unstable)
 - [Join the Mattermost Demo server](https://demo.mattermost.com/signup_email) (latest stable version)
 
